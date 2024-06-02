@@ -3,3 +3,4 @@ llama-hub
 openai 
 python-dotenv
 langchain
+llama-index-llms-huggingface
